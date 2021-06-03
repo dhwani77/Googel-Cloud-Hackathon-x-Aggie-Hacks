@@ -1,4 +1,4 @@
-# Googel-Cloud-Hackathon-x-Aggie-Hacks
+# Google-Cloud-Hackathon-x-Aggie-Hacks
 Project used as submission for the google cloud hackathon organized by University of California, Davis
 
 Our team utilized the Household pulse survey data that is collected by the United States Census Bureau. In this survey, respondents enter in their characteristics, and answer a series of questions regarding their sentiment on the COVID-19 pandemic, and how their lives have been impacted.
